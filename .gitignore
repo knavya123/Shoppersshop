@@ -1,0 +1,17 @@
+# intellij
+.idea/
+out
+
+# sbt
+target/
+build/
+project/boot
+project/project/
+project/target
+
+.bsp/
+
+*.log
+*.class
+
+.env
